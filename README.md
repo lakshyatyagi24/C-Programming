@@ -1,7 +1,7 @@
-# C-Programming
+# # C-Programming
 All C Programs
 
-Basic Programs
+# Basic Programs
 1. Hello World - HELLO_WO.CPP
 2. Print 1 to 100 - COUNT.CPP
 3. Print Alphabets from A-Z - ASCII1.CPP
